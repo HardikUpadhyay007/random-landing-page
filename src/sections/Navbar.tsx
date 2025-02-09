@@ -1,4 +1,4 @@
-import { a, section } from "framer-motion/client";
+// import { a, section } from "framer-motion/client";
 import Image from "next/image";
 import logo from "../assets/images/logo.svg";
 import Button from "@/components/Button";
